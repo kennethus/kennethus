@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="left">Hi there 👋, I'm John Kenneth</h1>
-<h3 align="left">A passionate Software Developer from the Philippines</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=1500&pause=1000&color=BAF7CA&width=600&height=70&lines=Hi+there%2C+I'm+John+Kenneth;Hi+there%2C+I'm+Kennethus;Hi+there%2C+I'm+Ken;Hi+there%2C+I'm+Kenneth" alt="Typing SVG" /></a>
+<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="100" align="right"/>
 
 ---
 
@@ -21,11 +21,7 @@
 
 <!-- About Me -->
 ### 👨‍💻 About Me  
-
-- 🎓 **Computer Science graduate** from the **University of the Philippines – Los Baños**.  
-- 🧑‍💻 Hands-on experience in **full-stack development, machine learning, and data science**.  
-- 💡 Passionate about **building scalable, user-focused applications** and exploring the intersection of **AI and software engineering**.  
-- 🐱 Cat lover who believes that creativity (and a good cup of coffee ☕) go hand-in-hand with writing clean code.  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&duration=1500&multiline=true&repeat=false&width=1030&height=110&lines=%F0%9F%8E%93+Computer+Science+graduate+from+the+University+of+the+Philippines+%E2%80%93+Los+Ba%C3%B1os.;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Hands-on+experience+in+full-stack+development%2C+machine+learning%2C+and+data+science;%F0%9F%92%A1+Passionate+about+building+scalable%2C+user-focused+applications+and+exploring+the+intersection+of+AI+and+software+engineering.;%F0%9F%90%B1+Cat+lover+who+believes+that+creativity+(and+a+good+cup+of+coffee)+go+hand-in-hand+with+writing+clean+code." alt="Typing SVG" /></a>
 
 ---
 
@@ -60,6 +56,7 @@
     <td>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PLSQL-003545?style=for-the-badge&logo=plsql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
       <img src="https://img.shields.io/badge/noSQL-000000?style=for-the-badge&logo=databricks&logoColor=white" />
     </td>
@@ -86,8 +83,12 @@
 ---
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kennethus&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kennethus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=falsed&rank_icon=github" height="150" alt="stats graph"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethus&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"/>
+
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethus&layout=compact&langs_count=8&theme=tokyonight"/>
  -->
 </p>
@@ -96,6 +97,7 @@
 
 <!-- Fun Section -->
 ### 🎨 One last...
+
 > *"Code is like humor. When you have to explain it, it’s bad."*  
 
 🎮 Hobbies: Gaming, Upskilling, Sketching, and Jogging  
